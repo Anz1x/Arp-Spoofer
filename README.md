@@ -26,6 +26,8 @@ Usage:
 - ./arpspoofer.py <router_ip> <target_ip>
 
 - EXAMPLE: ./arpspoofer.py 192.168.1.1 192.168.1.254
+
+
 ![image](https://user-images.githubusercontent.com/50573902/159108132-33cea26c-e60d-4333-84ad-88165c1b0ed2.png)
 
 
