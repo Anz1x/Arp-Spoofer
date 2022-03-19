@@ -1,6 +1,8 @@
 # Arp-Spoofer
 Arp spoofer made in Python 3.10.2.
 
+https://user-images.githubusercontent.com/50573902/159108653-a8f31d27-d0dd-4ee0-a87d-d2e714994bac.mp4
+
 DISCLAIMER:
 
 - I am not responsible with your illegal intentions with this so don't use this on someone explicitly without their permission.
@@ -30,7 +32,8 @@ Usage:
 
 ![image](https://user-images.githubusercontent.com/50573902/159108132-33cea26c-e60d-4333-84ad-88165c1b0ed2.png)
 
+2. (OPTIONAL) after you run the arp spoofer you may notice that the target may not be able to connect to the internet or it might be slow since it's sending malicious packets to the target so if you want the target to use the internet normally just type this before you run the program:
 
+- echo 1 >> /proc/sys/net/ipv4/ip_forward
 
-
-2. 
+3. The program is running on an infinite while loop so it won't stop by itself so if you want to stop the program just use the keyboard shrortcut ctrl + c
