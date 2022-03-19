@@ -7,6 +7,11 @@ DISCLAIMER:
 
 - I am not responsible with your illegal intentions with this so don't use this on someone explicitly without their permission.
 
+Third Party Modules:
+
+- scapy
+- colorama
+
 Installation:
 
 1. Just clone this or download this as a zip:
