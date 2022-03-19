@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+# Arp Spoofer coded in Python 3.10.2 made by Anz
+# Github: https://github.com/Anz1x
+# DISCLAIMER: I am not responsible with your illegal intentions with this so don't use this on someone explicitly without their permission.
+# Read README.md to check how to use and install this
+
 import scapy.all as scapy
 import sys
 import time
