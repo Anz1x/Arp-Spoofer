@@ -16,7 +16,7 @@ Installation:
 
 1. Just clone this or download this as a zip:
 
-- git clone https://github.com/Anz1x/SSH-Bruteforce
+- git clone https://github.com/Anz1x/Arp-Spoofer
 
 2. Install all the necessary modules in order for this arp spoofer to run
 
