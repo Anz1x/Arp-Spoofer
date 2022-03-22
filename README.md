@@ -41,4 +41,4 @@ Usage:
 
 - echo 1 >> /proc/sys/net/ipv4/ip_forward
 
-3. The program is running on an infinite while loop so it won't stop by itself so if you want to stop the program just use the keyboard shrortcut ctrl + c
+3. The program is running on an infinite while loop so it won't stop by itself so if you want to stop the program just use the keyboard shortcut ctrl + c
